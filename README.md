@@ -13,7 +13,7 @@
   <header>
     <div class="about">
       <div class="cover-author-image">
-        <a href="https://www.facebook.com/profile.php?id=100006639307793"><img alt="David Freeman" src="./About Me_files/KakaoTalk_20191126_211114351.jpg"></a>
+        <a href="https://www.facebook.com/profile.php?id=100006639307793"><img alt="David Freeman" src="https://user-images.githubusercontent.com/57663482/70451965-ab306880-1ae9-11ea-8d38-565ded1e9a07.jpg"></a>
       </div>
       <div class="author-name">Kim Dogyun</div>
       <p>
