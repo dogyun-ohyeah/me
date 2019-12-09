@@ -40,12 +40,11 @@ Major in Media Engineering 201821066</p>
 <p>the first semester of the second grade: C+ </p>
 I haven't had a good performance so far. So from now on, I will wake up and concentrate on studying. Please keep an eye on.
           
-<!-- Categpry -->
-    <hr class="recent-hr">
-            <div class="recent">I have created a homepage using HTML. <br> I have created a phone book using C ++ </p> 
-            I'm not good at it but I know the basics.
-            </div>
-            <hr class="recent-hr">
+<hr class="recent-hr">
+ <div class="recent">I have created a homepage using HTML. <br> I have created a phone book using C ++ </p> 
+I'm not good at it but I know the basics.
+</div>
+<hr class="recent-hr">
         
       
    
