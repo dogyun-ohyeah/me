@@ -26,7 +26,7 @@ Major in Media Engineering 201821066</p>
   
 <article class="post">
   
-    <img style="background-image: url(/flexible-jekyll/assets/img/i-rest.jpg)" src="https://user-images.githubusercontent.com/57663482/70452945-4aa22b00-1aeb-11ea-9b85-d1d1e5eff5d4.png" href="file:///C:/Users/%EA%B9%80%EB%8F%84%EA%B7%A0/Desktop/%EC%84%A0%EC%A0%95%EA%B3%A0.html">
+    <img width="300" height="200" class="img-main" src="https://user-images.githubusercontent.com/57663482/70452623-c8196b80-1aea-11ea-90d6-fc906eae6a95.jpg" href="file:///C:/Users/%EA%B9%80%EB%8F%84%EA%B7%A0/Desktop/%EC%84%A0%EC%A0%95%EA%B3%A0.html">
   
   <div class="post-content">
     <h2 class="post-title"><a href="file:///C:/Users/%EA%B9%80%EB%8F%84%EA%B7%A0/Desktop/%EC%84%A0%EC%A0%95%EA%B3%A0.html">High school life</a></h2>
