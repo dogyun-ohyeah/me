@@ -20,3 +20,5 @@
 Major in Media Engineering 201821066</p>
     </div>
 
+<img width="200" height="250" class="img-main" src="https://user-images.githubusercontent.com/57663482/70453966-044dcb80-1aed-11ea-80db-3886c4462d74.jpg">
+I joined the club association when I was in the first grade. We got together on Monday, Tuesday, Wednesday, and Thursday for a meeting. I spent a busy time preparing for the festival as well as working with the club. After the event, I went out to play with my seniors and friends and had a good time drinking and After the event, I went out to play with my seniors and friends and had a good time drinking. And on the day of the event to announce the club association, We dressed and danced as a retro concept and introduced himself and finished the stage. It was a lot of hard work, but at other times it was really fun and fun. If I get a chance later, I want to do it again.
