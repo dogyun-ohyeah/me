@@ -42,7 +42,7 @@ I haven't had a good performance so far. So from now on, I will wake up and conc
           
 <!-- Categpry -->
     <hr class="recent-hr">
-            <div class="recent">I have created a homepage using HTML. <br> I have created a phone book using C ++
+            <div class="recent">I have created a homepage using HTML. <br> I have created a phone book using C ++<br>I'm not good at it but I know the basics.
             </div>
             <hr class="recent-hr">
         
