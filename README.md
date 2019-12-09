@@ -13,7 +13,7 @@
   <header>
     <div class="about">
       <div class="cover-author-image">
-        <img src="https://user-images.githubusercontent.com/57663482/70451965-ab306880-1ae9-11ea-8d38-565ded1e9a07.jpg" width="90%"></img>
+       <img width="200" height="300" class="img-main" src="https://user-images.githubusercontent.com/57663482/70452623-c8196b80-1aea-11ea-90d6-fc906eae6a95.jpg">
       </div>
       <div class="author-name">Kim Dogyun</div>
       <p>
