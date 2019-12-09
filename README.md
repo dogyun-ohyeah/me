@@ -2,65 +2,8 @@
 	
 	<title>Hello, world! I'm Kim Dogyun</title>
 
-  <!-- Edit site and author settings in `_config.yml` to make the social details your own -->
-
-    <meta content="Hello, world! I'm David Freeman" property="og:site_name">
   
-    <meta content="Hello, world! I'm David Freeman" property="og:title">
-  
-  
-    <meta content="website" property="og:type">
-  
-  
-    <meta content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.&#10;" property="og:description">
-  
-  
-    <meta content="/" property="og:url">
-  
-  
-  
-    <meta content="/flexible-jekyll/assets/img/david-freeman.jpg" property="og:image">
-  
-  
-  
-
-    <meta name="twitter:card" content="summary">
-    <meta name="twitter:site" content="@">
-    <meta name="twitter:creator" content="@">
-  
-    <meta name="twitter:title" content="Hello, world! I'm David Freeman">
-  
-  
-    <meta name="twitter:url" content="/">
-  
-  
-    <meta name="twitter:description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.&#10;">
-  
-  
-    <meta name="twitter:image:src" content="/flexible-jekyll/assets/img/david-freeman.jpg">
-  
-
-	<meta name="description" content="">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-	<meta content="" property="og:image">
-	<link href="file:///C:/Users/%EA%B9%80%EB%8F%84%EA%B7%A0/Desktop/KakaoTalk_20191126_211114351.jpg" rel="shortcut icon" type="image/x-icon">
-	<link href="http://artemsheludko.com/flexible-jekyll/assets/img/favicon/apple-touch-icon.png" rel="apple-touch-icon">
-	<link href="http://artemsheludko.com/flexible-jekyll/assets/img/favicon/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72">
-	<link href="http://artemsheludko.com/flexible-jekyll/assets/img/favicon/apple-touch-icon-144x144.png" rel="apple-touch-icon" sizes="144x144">
-	<!-- Chrome, Firefox OS and Opera -->
-	<meta name="theme-color" content="#263959">
-	<!-- Windows Phone -->
-	<meta name="msapplication-navbutton-color" content="#263959">
-	<!-- iOS Safari -->
-	<meta name="apple-mobile-web-app-status-bar-style" content="#263959">
-	<!-- Google Fonts -->
-	<link href="./About Me_files/css" rel="stylesheet">
-	<link href="./About Me_files/css(1)" rel="stylesheet">
-	<!-- Font Awesome -->
-	<link href="./About Me_files/font-awesome.min.css" rel="stylesheet">
-	<!-- Styles -->
-	<link href="./About Me_files/main.css" rel="stylesheet">
+	<link href="https://user-images.githubusercontent.com/57663482/70451965-ab306880-1ae9-11ea-8d38-565ded1e9a07.jpg" rel="shortcut icon" type="image/x-icon">
 </head>
 
 <body>
