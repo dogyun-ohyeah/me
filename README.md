@@ -13,7 +13,7 @@
   <header>
     <div class="about">
       <div class="cover-author-image">
-        <a href="https://www.facebook.com/profile.php?id=100006639307793"><img alt="David Freeman" src="https://user-images.githubusercontent.com/57663482/70451965-ab306880-1ae9-11ea-8d38-565ded1e9a07.jpg"></a>
+        <img src="https://user-images.githubusercontent.com/23310187/34244435-91eab306-e668-11e7-8063-735dff683bf8.png" width="90%">
       </div>
       <div class="author-name">Kim Dogyun</div>
       <p>
