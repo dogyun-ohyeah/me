@@ -29,12 +29,20 @@ Major in Media Engineering 201821066</p>
     <h4 class="recent-title"></h4>
     <hr class="recent-hr">
     
-      <div class="recent">
-          <a class="recent-item" href="file:///C:/Users/%EA%B9%80%EB%8F%84%EA%B7%A0/Desktop/About%20Me.html"><span>
-About Me</span></a>
+<ul>
+  
+  
+  
+  <li>Grade</li>
+</ul>
+<p>the first semester of the first year: C+ </p>
+<p>the second semester of the first grade: C0 </p>
+<p>the first semester of the second grade: C+ </p>
+I haven't had a good performance so far. So from now on, I will wake up and concentrate on studying. Please keep an eye on.
+          
 <!-- Categpry -->
     <hr class="recent-hr">
-            <div class="recent">I have created a homepage using HTML.</a> <br> I have created a phone book using C ++
+            <div class="recent">I have created a homepage using HTML. <br> I have created a phone book using C ++
             </div>
             <hr class="recent-hr">
         
