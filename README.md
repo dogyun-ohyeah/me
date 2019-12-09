@@ -36,7 +36,7 @@ About Me</span></a>
 <div class="col-lg-12">
     <hr class="recent-hr">
             <div class="recent">
-                <a class="recent-item" href="https://recoveryman.tistory.com/321?category=635733">I have created a homepage using HTML.</a> </br> I have created a phone book using C ++
+                <a class="recent-item" href="https://recoveryman.tistory.com/321?category=635733">I have created a homepage using HTML.</a> <br> </> I have created a phone book using C ++
             </div>
             <hr class="recent-hr">
         
