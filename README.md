@@ -25,3 +25,34 @@ Major in Media Engineering 201821066</p>
       </div>
       <div class="author-name">I joined the club association when I was in the first grade. We got together on Monday, Tuesday, Wednesday, and Thursday for a meeting. I spent a busy time preparing for the festival as well as working with the club. After the event, I went out to play with my seniors and friends and had a good time drinking and After the event, I went out to play with my seniors and friends and had a good time drinking. And on the day of the event to announce the club association, We dressed and danced as a retro concept and introduced himself and finished the stage. It was a lot of hard work, but at other times it was really fun and fun. If I get a chance later, I want to do it again.</div>
     
+<div class="col-lg-12">
+    <h4 class="recent-title"></h4>
+    <hr class="recent-hr">
+    
+      <div class="recent">
+          <a class="recent-item" href="file:///C:/Users/%EA%B9%80%EB%8F%84%EA%B7%A0/Desktop/About%20Me.html"><span>
+About Me</span></a>
+<!-- Categpry -->
+<div class="col-lg-12">
+    <hr class="recent-hr">
+            <div class="recent">
+                <a class="recent-item" href="https://recoveryman.tistory.com/321?category=635733">I have created a homepage using HTML.</a> </br> I have created a phone book using C ++
+            </div>
+            <hr class="recent-hr">
+        
+      
+   
+</div>
+
+
+
+<!-- Tags -->
+<div class="col-lg-12">
+    
+    
+</div>
+
+
+
+<!-- Subscription -->
+<div class="col-lg-12">
