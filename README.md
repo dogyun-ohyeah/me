@@ -34,7 +34,7 @@ Major in Media Engineering 201821066</p>
 About Me</span></a>
 <!-- Categpry -->
     <hr class="recent-hr">
-            <div class="recent">I have created a homepage using HTML.</a> <br> </> I have created a phone book using C ++
+            <div class="recent">I have created a homepage using HTML.</a> <br> I have created a phone book using C ++
             </div>
             <hr class="recent-hr">
         
